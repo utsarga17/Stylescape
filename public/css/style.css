@@ -1,0 +1,11 @@
+.product-img {
+  object-fit: cover;    
+  border-radius: 8px;   
+}
+
+.card-img-top {
+  max-height: 300px;
+  background-color: white;
+  object-fit: contain;
+}
+

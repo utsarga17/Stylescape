@@ -2,6 +2,14 @@ StyleScape – A Simple Clothing Brand
 
 StyleScape is a lightweight online clothing store built with Node.js, Express, MongoDB, and Handlebars. It allows users to browse products, authenticate via GitHub, and purchase items using PayPal.
 
+
+This final submission combines both the In-Class Exercise  and the Demo Application into a single, fully functional project. The features, structure, and implementation were developed by extending the initial in-class work and integrating it with the requirements of the full demo application. Therefore, this repository serves as the complete assignment for both components.
+
+Live link: https://stylescape.onrender.com/
+Repository link:  
+
+
+
 Features:
 
 1.Product Listing (with image, name, price, and description)

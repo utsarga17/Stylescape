@@ -7,10 +7,9 @@ Features:
 1.Product Listing (with image, name, price, and description)
 2.GitHub Authentication using Passport.js
 3.PayPal Checkout Integration
-4.Admin Panel: Add/Edit/Delete Products
-5.MongoDB database for storing product data
-6.Clean responsive design using Bootstrap
-7.Handlebars (HBS) for templating
+4.MongoDB database for storing product data
+5.Clean responsive design using Bootstrap
+6.Handlebars (HBS) for templating
 
 Tech Stack:
 Node.js + Express.js

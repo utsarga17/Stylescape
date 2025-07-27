@@ -52,7 +52,7 @@
 
 <!-- Render PayPal buttons for each product -->
 <script>
-  const products = {{{json products}}}; // Ensure `res.locals.products` is available as JSON
+  const products = {{{json products}}}; 
   products.forEach((product, index) => {
     paypal.Buttons({
       createOrder: function(data, actions) {

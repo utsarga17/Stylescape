@@ -59,7 +59,7 @@ This project used the help of ChatGPT for implementing the PayPal JS SDK integra
 Reference source: https://developer.paypal.com/sdk/js/configuration/
 Bootstrap link: https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css
 
-Other than this, ChatGPT has been very slightly used for basic clarifications and minor bug fixes throughout the project.
+Other than this, ChatGPT has been very slightly used for basic clarifications and minor bug fixes throughout the project but mainly in app.js.
 
 
 VS Code Extensions Used
